@@ -48,7 +48,7 @@ class Event extends Component {
                     {
                         orderInfo.data.length > 0 ?
                         <ScrollView>
-                             <RadioGroup
+                            <RadioGroup
                                 size={24}
                                 thickness={2}
                                 color='#dddddd'
