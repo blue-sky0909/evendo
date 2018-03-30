@@ -9,5 +9,5 @@ I used react-navigation and react-google-map.
 
 1. `npm install`
 2. `react-native run-ios`
-![alt text](https://github.com/blue-sky0909/evendo/raw/src/assets/images/dashboard.ing?raw=true "Evendo")
+![alt text](https://github.com/blue-sky0909/evendo/blob/master/src/assets/images/dashboard.png)
 <img src="https://github.com/blue-sky0909/evendo/raw/src/assets/images/dashboard.ing">
