@@ -8,5 +8,7 @@ I used react-navigation and react-google-map.
 ## Available Commands
 
 1. `npm install`
-2. `react-native run-ios`
+2. `react-native run-ios` for IOS.
+3. `react-native start react-native run-android` for android
 ![alt text](https://github.com/blue-sky0909/evendo/blob/master/src/assets/images/dashboard.png)
+
